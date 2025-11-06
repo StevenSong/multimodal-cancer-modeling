@@ -1,6 +1,8 @@
-# Multimodal Survival Modeling in the Age of Foundation Models
+# Multimodal Cancer Modeling in the Age of Foundation Models
 
-This is the codebase for the work "Multimodal Survival Modeling in the Age of Foundation Models" by Song et al. 2025. The repo is divided into separate subdirectories each with their own READMEs and instructions. The order of our analysis with links to each subdirectory is outlined below:
+![framework overview](overview.png)
+
+This is the codebase for the work "Multimodal Cancer Modeling in the Age of Foundation Models" by Song et al. 2025, accepted at ML4H 2025! The repo is divided into separate subdirectories each with their own READMEs and instructions. The order of our analysis with links to each subdirectory is outlined below:
 
 1. [Download and Prepare Data](data)
 1. [Process and Embed Data](embed)
@@ -24,5 +26,5 @@ This codebase is the culmination and adaptation of several individual components
 
 ## Citation
 ```
-TODO: add bibtex citation
+TODO: add ML4H citation
 ```
